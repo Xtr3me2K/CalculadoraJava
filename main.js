@@ -21,6 +21,4 @@ if (operação == "-") {
     let resultado = numero1 / numero2
     // console.log ("O resultado da divisão é " + resultado + ".")
     document.write('O resultado da divisão é ' + resultado + '!');
-} else {
-    document.write('Ta errado ow burro ')
 }
